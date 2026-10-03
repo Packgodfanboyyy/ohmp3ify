@@ -1,6 +1,54 @@
 [
   {
-    "title": "poke",
+    "title": "Breakcore",
+    "url": "assets/music/breakcore.mp3"
+  },
+  {
+    "title": "spongebob spongebob",
+    "url": "assets/music/spunkbob.mp3"
+  },
+  {
+    "title": "NHH - YE",
+    "url": "assets/music/onhh.mp3"
+  },
+  {
+    "title": "guetto",
+    "url": "assets/music/gu.mp3"
+  },
+  {
+    "title": "Mama's BF complete",
+    "url": "assets/music/maBF.mp3"
+  },
+  {
+    "title": "fin burp",
+    "url": "assets/music/burp.mp3"
+  },
+  {
+    "title": "mama's boyfriend (melly)",
+    "url": "assets/music/mamaBF.mp3"
+  },
+  {
+    "title": "poke smth",
     "url": "assets/music/poke.mp3"
+  },
+  {
+    "title": "fassive mart",
+    "url": "assets/music/Sharpfart.mp3"
+  },
+  {
+    "title": "that one frog on twitch",
+    "url": "assets/music/toastedfrog.mp3"
+  },
+  {
+    "title": "Mama's BF complete intro",
+    "url": "assets/music/MAMASBF.mp3"
+  },
+  {
+    "title": "NHH - YE bass",
+    "url": "assets/music/NHHB.mp3"
+  },
+  {
+    "title": "test",
+    "url": "assets/music/frog.m4a"
   }
 ]
